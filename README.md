@@ -2,7 +2,7 @@
 
 🧑‍💻 **IT Undergraduate | Problem Solver | Aspiring Software Developer**
 
-I’m an enthusiastic tech learner with a strong interest in **software development, data structures, and algorithmic problem-solving**. I enjoy building practical applications that solve real-world problems using efficient and well-structured solutions.
+I’m an enthusiastic tech learner with a strong interest in **software development, cyber security, data structures, and algorithmic problem-solving**. I enjoy building practical applications that solve real-world problems using efficient and well-structured solutions.
 
 ---
 
@@ -16,6 +16,7 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 - Problem Solving  
 - Data Structures and Algorithms (DSA)  
 - Building useful tech solutions that make life easier  
+- Exploring Cyber Security
 
 ---
 
@@ -24,6 +25,9 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 - C, C++, Python, Java  
 - React, SQL  
 - HTML, CSS, JavaScript, Bootstrap  
+
+**Tools:** 
+- Figma, Vercel
 
 ---
 
