@@ -23,11 +23,11 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 ## 💻 Tech Stack / Tools
 **Languages & Frameworks:**  
 - C, C++, Python, Java  
-- React, SQL  
-- HTML, CSS, JavaScript, Bootstrap  
+- SQL, MySQL, MongoDB  
+- HTML, CSS, JavaScript, Bootstrap, React
 
 **Tools:** 
-- Figma, Vercel
+- Figma, Vercel, VS Code
 
 ---
 
