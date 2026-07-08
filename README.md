@@ -16,13 +16,13 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 - Problem Solving  
 - Data Structures and Algorithms (DSA)  
 - Building useful tech solutions that make life easier  
-- Exploring Cyber Security
+- Exploring Cyber Security, Blockchain
 
 ---
 
 ## 💻 Tech Stack / Tools
 **Languages & Frameworks:**  
-- C, C++, Python, Java  
+- C, C++, Python, Java, Solidity
 - SQL, MySQL, MongoDB  
 - HTML, CSS, JavaScript, Bootstrap, React
 
