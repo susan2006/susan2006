@@ -27,7 +27,7 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 - HTML, CSS, JavaScript, Bootstrap, React
 
 **Tools:** 
-- Figma, Vercel, VS Code
+- Figma, Vercel, VS Code, Postman
 
 ---
 
