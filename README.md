@@ -21,10 +21,15 @@ I’m an enthusiastic tech learner with a strong interest in **software developm
 ---
 
 ## 💻 Tech Stack / Tools
-**Languages & Frameworks:**  
+**Programming Languages:**  
 - C, C++, Python, Java, Solidity
-- SQL, MySQL, MongoDB  
-- HTML, CSS, JavaScript, Bootstrap, React
+- HTML, CSS, JavaScript
+  
+**Databases:**
+- MySQL, MongoDB
+
+**Frameworks:** 
+- Bootstrap, React
 
 **Tools:** 
 - Figma, Vercel, VS Code, Postman
